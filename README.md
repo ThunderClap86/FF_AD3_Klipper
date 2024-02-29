@@ -19,8 +19,8 @@ https://www.printables.com/model/437968-flashforge-adventurer-3-klipper-revo-6-b
 * Raspberry Pi Zero 2w (DO NOT attempt to use an older/weaker Pi Zero model)
 * PCB's: AD3 HE and AD3 HE BreakOut Boards.
 * E3D Revo 6 or E3D V6 hotend. 
-* Good Quality Ribbon cable - ~1.5 meters/ 5 feet.
-* 2x9 Pin IDC Cable Connectors and sockets
+* Good Quality Ribbon cable - 20 conductor - ~1.5 meters/ 5 feet.
+* 2x9 *OR* 2x10 Pin IDC Cable Connectors and sockets. *PCB design intended for 2x9, for convenience the 2x10 fits fine if aligned properly. 
 * 2x Molex, Micro-Fit 3.0, 43650, 2 Way, 1 Row, Right Angle PCB Headers
 * Assorted JST-PH PCB Sockets and Cable Connectors
 * 2x PCB Mount Screw Terminal Blocks eg CUI Devices TB004-508-02BE
