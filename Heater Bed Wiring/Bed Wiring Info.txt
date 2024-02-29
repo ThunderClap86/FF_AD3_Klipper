@@ -1,6 +1,4 @@
-Basically you dont want to use the inner 2 traces as that is the old Thermistor. 
-I couldnt work out a way to make it reliable, so I replaced it with a normal glass bead thermistor and removed the SMD components from it.
+The outer most two traces are for the SMD thermistor of the heat pad. The only required action is to desolder the one resistor on its own. The rest of the traces are split
+evenly, mark the inner/middle two traces and avoid soldering on them. This will avoid a short that could cause a fire. 
 
-
-The rest of the pads are split evenly on either side as the heater power. 
-It's not important which way you wire it as it isnt polarised.
+The SMD capacitors are fine to keep, these will smooth the heating power/current across the heat bed element. 
