@@ -1,1 +1,2 @@
-
+Print anything on or near the hotend in ABS or ASA. The decorative items (Lid, CR-Touch Mount, Part Cooling Fan Mount, Pico/Pi Mount, Spacers) can all be printed in material of choice. Parts were all tested at
+.2mm layer height with 4 walls and 4 top/bottom layers and 15% Gyroid infill. Some parts are going to need supports touching the buildplate. Avoid supports on prints. 
